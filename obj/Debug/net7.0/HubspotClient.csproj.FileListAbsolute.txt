@@ -1,0 +1,11 @@
+C:\Users\Haran\source\repos\HubspotClient\HubspotClient\bin\Debug\net7.0\HubspotClient.deps.json
+C:\Users\Haran\source\repos\HubspotClient\HubspotClient\bin\Debug\net7.0\HubspotClient.dll
+C:\Users\Haran\source\repos\HubspotClient\HubspotClient\bin\Debug\net7.0\HubspotClient.pdb
+C:\Users\Haran\source\repos\HubspotClient\HubspotClient\obj\Debug\net7.0\HubspotClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haran\source\repos\HubspotClient\HubspotClient\obj\Debug\net7.0\HubspotClient.AssemblyInfoInputs.cache
+C:\Users\Haran\source\repos\HubspotClient\HubspotClient\obj\Debug\net7.0\HubspotClient.AssemblyInfo.cs
+C:\Users\Haran\source\repos\HubspotClient\HubspotClient\obj\Debug\net7.0\HubspotClient.csproj.CoreCompileInputs.cache
+C:\Users\Haran\source\repos\HubspotClient\HubspotClient\obj\Debug\net7.0\HubspotClient.dll
+C:\Users\Haran\source\repos\HubspotClient\HubspotClient\obj\Debug\net7.0\refint\HubspotClient.dll
+C:\Users\Haran\source\repos\HubspotClient\HubspotClient\obj\Debug\net7.0\HubspotClient.pdb
+C:\Users\Haran\source\repos\HubspotClient\HubspotClient\obj\Debug\net7.0\ref\HubspotClient.dll
