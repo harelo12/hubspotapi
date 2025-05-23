@@ -1,8 +1,3 @@
-
-
-
-Based on my analysis of the repository, I'll create a comprehensive README.md file for the HubSpot API client library. Here's the README.md content:
-
 # HubSpot API Client
 
 A simple and efficient C# client library for interacting with the HubSpot CRM API. This library provides easy-to-use methods for managing HubSpot contacts through the HubSpot CRM v3 API.
