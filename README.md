@@ -102,7 +102,3 @@ This client connects to the HubSpot CRM v3 API: [13](#0-12)
 - The client automatically handles pagination for large contact lists
 - Contact properties can be customized by passing a list of property names
 - API responses are automatically deserialized to strongly-typed objects
-
-## Notes
-
-This README.md provides comprehensive documentation for the HubSpot API client library based on the `HubspotClient.cs` file. The library is designed for C# developers who need to integrate HubSpot contact management into their applications. All functionality is built around the HubSpot CRM v3 contacts API endpoint, with support for the standard CRUD operations and additional utility methods for common use cases.
